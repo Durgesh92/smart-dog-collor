@@ -9,7 +9,7 @@
 
 ##  Setting up device
 
-- Install ubuntu desktop 21.04 in pi (I have worked on 3b but same procedure for 4 as well)
+- Install ubuntu desktop 21.04 in pi (I have worked on 3b but same procedure for 4 as well). Below is screenshot of OS used for development
 
 	![alt text](https://github.com/Durgesh92/smart-dog-collor/blob/master/1.png)
 
