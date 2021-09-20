@@ -10,10 +10,9 @@
 ##  Setting up device
 
 - Install ubuntu desktop 21.04 in pi (I have worked on 3b but same procedure for 4 as well)
-```
-![alt text](https://github.com/Durgesh92/smart-dog-collor/blob/master/1.png)
 
-```
+	![alt text](https://github.com/Durgesh92/smart-dog-collor/blob/master/1.png)
+
 - linux dependencies
 ```bash
 	sudo apt install lame sox ffmpeg
